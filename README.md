@@ -39,8 +39,8 @@ Requisito: Python 3.10 ou superior.
 
 ```bash
 # 1. clone o repositório
-git clone https://github.com/Zalone03/ProjetoOeA.git
-cd ProjetoOeA
+git clone https://github.com/Zalone03/Painel-de-Governanca-RPA.git
+cd Painel-de-Governanca-RPA
 
 # 2. suba a API (dados fictícios, gerados na inicialização)
 python servidor2.py
